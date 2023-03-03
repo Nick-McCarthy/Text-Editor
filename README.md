@@ -15,7 +15,8 @@
  <br>
 https://text-editor-pwa-uta.herokuapp.com/
 <br>
- ## Usage 
+
+## Usage 
  visit heroku link
  <br>
  caption: console view while running
