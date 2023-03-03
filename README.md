@@ -21,7 +21,7 @@ https://text-editor-pwa-uta.herokuapp.com/
  <br>
  caption: console view while running
 <br>
-![<img src="storage.PNG" width="250"/>](images/storage.PNG)
+![<img src="storage.png" width="250"/>](images/storage.png)
 <br>
  ## License 
  MIT License 
